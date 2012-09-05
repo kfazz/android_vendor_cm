@@ -46,6 +46,8 @@ add_lunch_combo cm_maguro-userdebug
 #add_lunch_combo cm_tf101-userdebug
 #add_lunch_combo cm_tf201-userdebug
 #add_lunch_combo cm_tf300t-userdebug
+add_lunch_combo cm_sholes-user
+add_lunch_combo cm_sholes-userdebug
 add_lunch_combo cm_toro-userdebug
 add_lunch_combo cm_toroplus-userdebug
 #add_lunch_combo cm_urushi-userdebug
